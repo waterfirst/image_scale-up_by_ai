@@ -4,7 +4,7 @@
 
 저해상도 이미지를 고급 AI 알고리즘과 이미지 처리 기술을 사용하여 고품질로 업스케일링하는 도구입니다.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imagescale-upbyai.streamlit.app/)
 
 ---
 
